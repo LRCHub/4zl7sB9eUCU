@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mela!",
+  "base_artist": "緑黄色社会",
+  "createdAt": "2026-02-15T05:59:26.307721Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Go (feat. Mela Machinko)",
+      "artist": "Pharoahe Monch",
+      "has_synced": true,
+      "path": "select/01_Let's_Go_(feat._Mela_Machinko)_Pharoahe_Monch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Push (feat. Showtyme, Mela Machinko, & Tower of Power)",
+      "artist": "Pharoahe Monch",
+      "has_synced": true,
+      "path": "select/02_Push_(feat._Showtyme,_Mela_Machinko,_&_Tower_of_Power)_Pharoahe_Monch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cogli la prima mela",
+      "artist": "Angelo Branduardi",
+      "has_synced": true,
+      "path": "select/03_Cogli_la_prima_mela_Angelo_Branduardi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Mela",
+      "artist": "Lucio Dalla",
+      "has_synced": false,
+      "path": "select/04_La_Mela_Lucio_Dalla.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La mela",
+      "artist": "Paolino Paperino Band",
+      "has_synced": true,
+      "path": "select/05_La_mela_Paolino_Paperino_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mala Mela",
+      "artist": "Marlene Kuntz",
+      "has_synced": false,
+      "path": "select/06_Mala_Mela_Marlene_Kuntz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mela Di Scarto",
+      "artist": "Lucio Dalla",
+      "has_synced": true,
+      "path": "select/07_Mela_Di_Scarto_Lucio_Dalla.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mela da scarto",
+      "artist": "Lucio Dalla",
+      "has_synced": true,
+      "path": "select/08_Mela_da_scarto_Lucio_Dalla.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Perché non sei una mela",
+      "artist": "Lucio Battisti",
+      "has_synced": true,
+      "path": "select/09_Perché_non_sei_una_mela_Lucio_Battisti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Piccola mela",
+      "artist": "Francesco De Gregori",
+      "has_synced": true,
+      "path": "select/10_Piccola_mela_Francesco_De_Gregori.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rossa Mela Della Sera",
+      "artist": "Zucchero",
+      "has_synced": false,
+      "path": "select/11_Rossa_Mela_Della_Sera_Zucchero.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rossa Mela Della Sera",
+      "artist": "Zucchero",
+      "has_synced": true,
+      "path": "select/12_Rossa_Mela_Della_Sera_Zucchero.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Un Mela Aasadhaan",
+      "artist": "Dhanush, G.V. Prakash Kumar, Aishwarya R Dhanush & Andrea Jeremiah",
+      "has_synced": true,
+      "path": "select/13_Un_Mela_Aasadhaan_Dhanush,_G.V._Prakash_Kumar,_Aishwarya_R_Dhanush_&_Andrea_Jeremiah.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Un Mela Aasadhaan-StarMusiQ.Com",
+      "artist": "Dhanush, Aishwarya Dhanush, Andrea Jeremiah",
+      "has_synced": true,
+      "path": "select/14_Un_Mela_Aasadhaan-StarMusiQ.Com_Dhanush,_Aishwarya_Dhanush,_Andrea_Jeremiah.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mere Sang Sang Aaya Teri Yaadon Ka Mela, Pt. 2",
+      "artist": "Kishore Kumar",
+      "has_synced": false,
+      "path": "select/15_Mere_Sang_Sang_Aaya_Teri_Yaadon_Ka_Mela,_Pt._2_Kishore_Kumar.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Mere Sang Sang Aaya Teri Yaadon Ka Mela -Part II",
+      "artist": "Kishore Kumar",
+      "has_synced": true,
+      "path": "select/16_Mere_Sang_Sang_Aaya_Teri_Yaadon_Ka_Mela_-Part_II_Kishore_Kumar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mela!",
+      "artist": "緑黄色社会",
+      "has_synced": false,
+      "path": "select/pl_01_Mela!_緑黄色社会.txt"
+    }
+  ]
+}
